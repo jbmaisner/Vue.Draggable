@@ -21,7 +21,7 @@
     "test": "test"
   },
   "dependencies": {
-    "sortablejs": "^1.6.0"
+    "sortablejs": "jbmaisner/Sortable"
   },
   "devDependencies": {
     "babel-plugin-transform-object-assign": "^6.22.0",
